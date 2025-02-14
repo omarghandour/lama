@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description: "Forever entwined in love, my heart beats for you, Lama ❤️",
   openGraph: {
     images: [
-      "/public/IMG_4128.jpeg", // Replace with the actual image URL
+      "/IMG_4128.jpeg", // Replace with the actual image URL
     ],
   },
 };
