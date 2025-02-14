@@ -149,7 +149,7 @@ export default function Hero() {
           {!quizStarted ? (
             <div className="space-y-6">
               <h2 className="text-3xl font-bold text-purple-600">
-                Relationship Pop Quiz! 🧠💘
+                Relationship Quiz! 🧠💘
               </h2>
               <p className="text-lg text-gray-700">
                 Prove {"you're"} paying attention... No pressure... but{" "}
