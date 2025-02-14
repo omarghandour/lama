@@ -15,6 +15,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "A Love Story: Lama & Omar",
   description: "Forever entwined in love, my heart beats for you, Lama ❤️",
+  openGraph: {
+    images: [
+      "/public/IMG_4128.jpeg", // Replace with the actual image URL
+    ],
+  },
 };
 
 export default function RootLayout({
